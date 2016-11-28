@@ -1,0 +1,23 @@
+Amanda Discsusions Questions CS Data Structures 2
+
+
+Recursion
+
+1. In your own words, what is recursion?
+	It is a method of breaking a problem down into smaller problems until you hit the base case. This involves a function calling itself over and over again.   
+
+
+2. Why is it necessary to have a base case?
+	A base case determines when to stop calling the function. If you didn't have this, you would have a infinite loop.  
+
+
+Graphs
+
+1. What is a graph?
+	A graph represents relationships between nodes. They can be directed of non-directed. They can contain loops. Trees are a special kind of graph.
+
+2. How is a graph different from a tree?
+	A Tree is a special kind of graph. There can only be once path between any two nodes. This means there cannot be "loops."
+	
+3. Give an example of something that would be good to model with a graph.
+	Facebook friends or LinkedIn connections because there can be more than one way you are connected with someone.  
